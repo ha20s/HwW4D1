@@ -20,6 +20,7 @@ const resCodes = [
     
     let img = document.createElement("img")
     img.src = url+resCodes[i]+ ".jpg"
+    img.style.borderRadius = "1rem"
 
 if (resCodes[i] >= 100 && resCodes[i] < 200) {
     container1.appendChild(img);  

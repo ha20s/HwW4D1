@@ -1,12 +1,19 @@
 *{
     background-color: rgb(111, 111, 111);
 }
+.logoImage{
+    width: 10vh;
+    height: 10vh;
+    box-shadow: none ;
+}
 
 img{
     width: 40vh;
     height: 40vh;
     box-shadow: 0rem 0rem 1rem beige;
 }
+
+
 h1{
     background-color: rgb(136, 142, 148);
     font-weight: bold;
