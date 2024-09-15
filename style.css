@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(111, 111, 111);
+}
+
+img{
+    width: 40vh;
+    height: 40vh;
+    box-shadow: 0rem 0rem 1rem beige;
+}
+h1{
+    background-color: rgb(136, 142, 148);
+    font-weight: bold;
+}
+
+.container1, .container2 , .container3, .container4 , .container5{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 1rem;
+gap: 1rem;
+
+}
+
